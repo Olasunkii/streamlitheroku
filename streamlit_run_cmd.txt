@@ -1,0 +1,2 @@
+
+streamlit run "C:\Users\PC\Documents\ExploreDataScience\Projects\StreamitApp\App\app.py"
